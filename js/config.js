@@ -20,7 +20,6 @@ const SITE_CONFIG = {
     version: '1.0.3'
 };
 
-
 // API站点配置
 const API_SITES = {
     dyttzy: {
@@ -120,7 +119,6 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     },
-
 };
 
 // 定义合并方法
